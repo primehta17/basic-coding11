@@ -1,4 +1,4 @@
-//number is float or integer
+//Check if a Number is Float or Integer
 
 let num=97.4;
 
